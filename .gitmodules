@@ -1,0 +1,3 @@
+[submodule "MySubmodule/NancyWebsite"]
+	path = MySubmodule/NancyWebsite
+	url = https://github.com/OptimisticCoder/NancyWebsite
